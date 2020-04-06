@@ -277,28 +277,28 @@ html {
        position: absolute;
        height: 24px;
        top: 14px;
-       transform: translateX(50%);
+       transform: translateX(-50%);
    }
 
    .fa-random {
        position: absolute;
        height: 24px;
        top: 14px;
-       transform: translateX(50%);
+       transform: translateX(-50%);
    }
 
    .fa-clock {
        position: absolute;
        height: 24px;
        top: 14px;
-       transform: translateX(50%);
+       transform: translateX(-50%);
    }
 
    .fa-shopping-cart {
        position: absolute;
        height: 24px;
        top: 14px;
-       transform: translateX(60%);
+       transform: translateX(-260%);
    }
 
    .icons__basket {
@@ -321,8 +321,8 @@ html {
    .icons__basket p {
        font-size: 14px;
        font-weight: 400;
-       padding-top: 18px;
-       padding-left: 60px;
+       padding-top: 5px;
+       padding-left: 40px;
        text-transform: uppercase;
    }
 
